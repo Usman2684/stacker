@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy - Stacker</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 40px auto;
+      max-width: 800px;
+      padding: 0 20px;
+      color: #333;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    h2 {
+      margin-top: 30px;
+      color: #2c3e50;
+    }
+    p {
+      margin-bottom: 15px;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Privacy Policy for Stacker</h1>
+  <p><strong>Effective Date:</strong> July 5, 2025</p>
+
+  <p>This Privacy Policy explains how your information is handled in the mobile game <strong>Stacker</strong>, developed by <strong>Dragon Fire Studio</strong>.</p>
+
+  <h2>1. Information We Do Not Collect</h2>
+  <p>We do not collect, store, or share any personal or sensitive user data. The game does not require login or access to your personal information.</p>
+
+  <h2>2. Device Access</h2>
+  <p><em>Stacker</em> does not request access to any device features such as your camera, microphone, contacts, or location.</p>
+
+  <h2>3. Third-party Services</h2>
+  <p>Currently, <em>Stacker</em> does not use any third-party services for ads or analytics. If this changes in the future, this policy will be updated accordingly.</p>
+
+  <h2>4. Children’s Privacy</h2>
+  <p><em>Stacker</em> does not knowingly collect data from children under the age of 13. If you believe that we may have collected data from a child, please contact us immediately for deletion.</p>
+
+  <h2>5. Contact Us</h2>
+  <p>If you have any questions or concerns regarding this privacy policy, you may contact us at:</p>
+  <p>Email: <a href="mailto:usmanw2684@gmail.com">usmanw2684@gmail.com</a></p>
+
+  <footer>
+    &copy; 2025 Dragon Fire Studio. All rights reserved.
+  </footer>
+
+</body>
+</html>
